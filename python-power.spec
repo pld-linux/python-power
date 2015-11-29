@@ -15,7 +15,7 @@ Source0:	https://pypi.python.org/packages/source/p/power/power-%{version}.tar.gz
 # Source0-md5:	7346e84338da5478c598c5639a484070
 URL:		https://github.com/Kentzo/Power
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 %if %{with python2}
 BuildRequires:	python-devel
 BuildRequires:	python-setuptools
