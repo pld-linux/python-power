@@ -8,7 +8,7 @@
 Summary:	Cross-platform system power status information
 Name:		python-%{module}
 Version:	1.4
-Release:	8
+Release:	9
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/p/power/power-%{version}.tar.gz
